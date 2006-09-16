@@ -1,0 +1,9 @@
+# $Id: test_manifest,v 1.1.1.1 2006/09/16 08:14:07 comdog Exp $
+env.t
+load.t
+pod.t
+pod_coverage.t
+#prereq.t
+address_verification.t
+zip_code_lookup.t
+city_state_lookup.t

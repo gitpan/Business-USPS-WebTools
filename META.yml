@@ -1,0 +1,14 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Business-USPS-WebTools
+version:      0.10_01
+version_from: lib/WebTools.pm
+installdirs:  site
+requires:
+    Hash::AsObject:                0
+    LWP::Simple:                   0
+    Test::Manifest:                1.14
+    Test::More:                    0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.30
